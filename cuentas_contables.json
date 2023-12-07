@@ -1,0 +1,14 @@
+[
+	{
+		"codigo": "1001",
+		"numero_cuenta": "001",
+		"nombre_cuenta": "Gastos de Viaje",
+		"tipo_cuenta": "gasto"
+	},
+	{
+		"codigo": "1002",
+		"numero_cuenta": "002",
+		"nombre_cuenta": "Gastos de Oficina",
+		"tipo_cuenta": "gasto"
+	}
+]
